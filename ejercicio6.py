@@ -62,23 +62,3 @@ class Persona():
     def es_mayor_de_edad(self):
         return (self.edad >= 18)
 
-
-
-# p1 = Persona()
-# p1.mostrar()
-# print(p1.es_mayor_de_edad())
-
-# p2 = Persona("Vicente Cisneros", 15, 45555989)
-# p2.mostrar()
-# print(p2.es_mayor_de_edad())
-
-# p3 = Persona("Jose Feliz", 0, 0)
-# p3.mostrar()
-# print(p3.es_mayor_de_edad())
-
-
-# p4 = Persona("z", 15, 155)
-# p4.mostrar()
-# print(p4.es_mayor_de_edad())
-
-
